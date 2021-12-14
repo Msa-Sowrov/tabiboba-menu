@@ -5,7 +5,7 @@ const Honey = () => {
     useEffect(()=>{
         fetch('./milktea.json')
         .then(req=>req.json())
-        .then(data=>setMilktea(data.milktea))
+        .then(data=>setMilktea(data.honey))
     },[])
     return (
         <div>
@@ -15,7 +15,7 @@ const Honey = () => {
                   <thead>
                      <tr>
                         <th><div className='title'>
-                            <h3>MilkTea Selections</h3>
+                            <h3>Honey Selections</h3>
                         </div></th>
                         <th>M</th>
                         <th>L</th>

@@ -6,7 +6,7 @@ const Orginal = () => {
         useEffect(()=>{
             fetch('./milktea.json')
             .then(req=>req.json())
-            .then(data=>setMilktea(data.milktea))
+            .then(data=>setMilktea(data.orginal))
         },[])
         return (
             <div>

@@ -1,6 +1,8 @@
 h3{
     color:rgb(241, 113, 131);
     font-family: 'Kalam', cursive;
+    margin-top: 20px;
+    font-weight: 500;
 }
 table tr th{
     padding-left:20px !important;
@@ -9,4 +11,9 @@ table tr th{
 table tr td{
     padding-left:20px !important;
     background-color:white;
+    font-weight: 500;
+  }
+  .modal-img{
+
+    width: 300px;
   }
