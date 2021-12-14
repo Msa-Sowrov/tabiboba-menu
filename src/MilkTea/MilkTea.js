@@ -11,11 +11,11 @@ const MilkTea = () => {
         <div>
             <div className='container'>
                 
-              <table className=''> 
+              <table className='table table-striped table-hover'> 
                   <thead>
                      <tr>
                         <th><div className='title'>
-                            <h3>MilkTea Selection</h3>
+                            <h3>MilkTea Selections</h3>
                         </div></th>
                         <th>M</th>
                         <th>L</th>

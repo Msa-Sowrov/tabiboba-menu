@@ -5,3 +5,9 @@
     font-family: 'Fuzzy Bubbles', cursive;
     margin: 20px 0;
 }
+.menu-title h1{
+    margin: 0;
+}
+.menu-title img{
+    width: 250px;
+}

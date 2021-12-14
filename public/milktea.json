@@ -186,8 +186,330 @@
             "details": "",
             "opt": ""
           }
+      ],
+      "orginal":[
+        {
+          "img": "",
+          "name": "Yakult Green Tea",
+          "mPrice": "20",
+          "lPrice": "23",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Winter Melon Tea",
+          "mPrice": "17",
+          "lPrice": "20",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Oolong Tea",
+          "mPrice": "16",
+          "lPrice": "19",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Jasmine Green Tea",
+          "mPrice": "16",
+          "lPrice": "19",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Grape Green Tea",
+          "mPrice": "18",
+          "lPrice": "21",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Chrysanthemum Tea",
+          "mPrice": "17",
+          "lPrice": "20",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Asam Black Tea",
+          "mPrice": "16",
+          "lPrice": "19",
+          "details": "",
+          "opt": ""
+        }      
+      ],
+      "honey":[
+        {
+          "img": "",
+          "name": "Honey Green Tea",
+          "mPrice": "17",
+          "lPrice": "20",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Honey Black Tea",
+          "mPrice": "17",
+          "lPrice": "20",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Honey Oolong Tea",
+          "mPrice": "17",
+          "lPrice": "20",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Honey Lychee Green Tea",
+          "mPrice": "18",
+          "lPrice": "21",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Honey Lemon",
+          "mPrice": "18",
+          "lPrice": "21",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Honey Chrysanthemum",
+          "mPrice": "18",
+          "lPrice": "21",
+          "details": "",
+          "opt": ""
+        }     
+      ],
+      "milkshake":[
+        {
+          "img": "",
+          "name": "Chocolate Milkshake",
+          "mPrice": "26",
+          "lPrice": "",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Mango Milkshake",
+          "mPrice": "26",
+          "lPrice": "",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Strawberry Milkshake",
+          "mPrice": "26",
+          "lPrice": "",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Matcha Milkshake",
+          "mPrice": "26",
+          "lPrice": "",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Taro Milkshake",
+          "mPrice": "26",
+          "lPrice": "",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Oreo Milkshake",
+          "mPrice": "26",
+          "lPrice": "",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Lychee Milkshake",
+          "mPrice": "26",
+          "lPrice": "",
+          "details": "",
+          "opt": ""
+        } ,
+        {
+          "img": "",
+          "name": "Grape Milkshake",
+          "mPrice": "26",
+          "lPrice": "",
+          "details": "",
+          "opt": ""
+        }
+      ],
+      "fruit":[
+        {
+          "img": "",
+          "name": "Passionfruit Tea",
+          "mPrice": "-",
+          "lPrice": "29",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Pomegranate Tea",
+          "mPrice": "-",
+          "lPrice": "29",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Lychee Green Tea",
+          "mPrice": "18",
+          "lPrice": "21",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Crystal Lemon",
+          "mPrice": "17",
+          "lPrice": "20",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Lychee Lemon Spring Tea",
+          "mPrice": "19",
+          "lPrice": "22",
+          "details": "",
+          "opt": ""
+        }
+      ],
+      "fresh":[
+        {
+          "img": "",
+          "name": "Fresh Taro Delight",
+          "mPrice": "24",
+          "lPrice": "27",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Honey Taro Delight",
+          "mPrice": "25",
+          "lPrice": "28",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Brown Sugar Taro Delight",
+          "mPrice": "25",
+          "lPrice": "28",
+          "details": "",
+          "opt": ""
+        }
+      ],
+      "snacks":[
+        {
+          "img": "",
+          "name": "Waffles",
+          "mPrice": "15",
+          "lPrice": "-",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Egg Waffles",
+          "mPrice": "15",
+          "lPrice": "-",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Chocolate egg Waffles",
+          "mPrice": "15",
+          "lPrice": "-",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Pandan egg Waffles",
+          "mPrice": "15",
+          "lPrice": "-",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Tabiboba Cake",
+          "mPrice": "-",
+          "lPrice": "-",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Salted Egg Yolk Potato Ridges",
+          "mPrice": "25",
+          "lPrice": "-",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Salted Egg Yolk Fish Skin",
+          "mPrice": "25",
+          "lPrice": "-",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Salted Egg Crab Seaweed Tempura",
+          "mPrice": "25",
+          "lPrice": "-",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Chili Crab Seaweed Tempura",
+          "mPrice": "25",
+          "lPrice": "-",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Bangkok Tom Yum Goong",
+          "mPrice": "25",
+          "lPrice": "-",
+          "details": "",
+          "opt": ""
+        }
       ]
-      
-
 
 }

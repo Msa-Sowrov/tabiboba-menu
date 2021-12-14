@@ -1,19 +1,20 @@
 import React, { useEffect, useState } from 'react';
-
-const Latte = () => {
-    const [latte, setLatte] = useState([])
+const Fresh = () => {
+    const [milktea, setMilktea] = useState([])
     useEffect(()=>{
         fetch('./milktea.json')
         .then(req=>req.json())
-        .then(data=>setLatte(data.latte))
+        .then(data=>setMilktea(data.milktea))
     },[])
     return (
-           <div className='container'>
-           <table className='table table-striped table-hover'> 
+        <div>
+            <div className='container'>
+                
+              <table className='table table-striped table-hover'> 
                   <thead>
                      <tr>
                         <th><div className='title'>
-                            <h3>Latte Selections</h3>
+                            <h3>MilkTea Selections</h3>
                         </div></th>
                         <th>M</th>
                         <th>L</th>
@@ -21,16 +22,17 @@ const Latte = () => {
                   </thead>
                   <tbody>
                   {
-                      latte.map(m=><tr>
+                      milktea.map(m=><tr>
                           <td>{m.name}</td>
                           <td>{m.mPrice}</td>
                           <td>{m.lPrice}</td>
                           </tr>)
                   }
                   </tbody>
-              </table> 
+              </table>
+            </div>
         </div>
     );
 };
 
-export default Latte;
+export default Fresh;
