@@ -1,0 +1,193 @@
+{
+    "milktea":[
+        {
+          "img": "",
+          "name": "Authentic Taiwanese Milk Tea",
+          "mPrice": "19",
+          "lPrice": "22",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Brown Sugar Milk Tea",
+          "mPrice": "19",
+          "lPrice": "22",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Brown Sugar Oolong Milk Tea",
+          "mPrice": "19",
+          "lPrice": "22",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Chocolate Milk Tea",
+          "mPrice": "21",
+          "lPrice": "24",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Chrysanthemum Milk Tea",
+          "mPrice": "20",
+          "lPrice": "23",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Green Milk Tea",
+          "mPrice": "18",
+          "lPrice": "21",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Oolong Milk Tea",
+          "mPrice": "18",
+          "lPrice": "21",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Rose Milk Tea\t",
+          "mPrice": "19",
+          "lPrice": "22",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Taro Milk Tea",
+          "mPrice": "20",
+          "lPrice": "23",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Winter Melon Milk Tea",
+          "mPrice": "20",
+          "lPrice": "23",
+          "details": "",
+          "opt": ""
+        }
+      ],
+    "latte":[
+        {
+          "img": "",
+          "name": "Black Tea Latte",
+          "mPrice": "20",
+          "lPrice": "23",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Jasmine Green Tea Latte",
+          "mPrice": "20",
+          "lPrice": "23",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Oolong Tea Latte",
+          "mPrice": "20",
+          "lPrice": "23",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Winter Melon Tea Latte",
+          "mPrice": "21",
+          "lPrice": "24",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Brown Sugar Oolong Tea latte",
+          "mPrice": "21",
+          "lPrice": "24",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Brown sugar Black Tea Latte",
+          "mPrice": "21",
+          "lPrice": "24",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Chocolate Latte",
+          "mPrice": "21",
+          "lPrice": "24",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Uji Matcha Latte",
+          "mPrice": "21",
+          "lPrice": "24",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Chrysanthemum Tea Latte",
+          "mPrice": "21",
+          "lPrice": "24",
+          "details": "",
+          "opt": ""
+        },
+        {
+          "img": "",
+          "name": "Brown Sugar Dirty Milk",
+          "mPrice": "21",
+          "lPrice": "24",
+          "details": "",
+          "opt": ""
+        },
+        {
+            "img": "",
+            "name": "Taro Latte",
+            "mPrice": "21",
+            "lPrice": "24",
+            "details": "",
+            "opt": ""
+          },
+          {
+            "img": "",
+            "name": "Black Cloud",
+            "mPrice": "22",
+            "lPrice": "25",
+            "details": "",
+            "opt": ""
+          },
+          {
+            "img": "",
+            "name": "Rose Tea Latte",
+            "mPrice": "21",
+            "lPrice": "24",
+            "details": "",
+            "opt": ""
+          }
+      ]
+      
+
+
+}
